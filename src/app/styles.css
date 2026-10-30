@@ -289,9 +289,6 @@
   .subject-card h2 { font-size: 8px; }
 }
 
-.figma-custom-code-fragment { display: contents; }
-.figma-bypass-link { position: fixed; top: 8px; left: 8px; z-index: 9999; transform: translateY(-150%); padding: 8px 12px; border-radius: 6px; color: white; background: #111827; }
-.figma-bypass-link:focus { transform: translateY(0); }
 .mobile-nav { display: none; }
 .sidebar-note { margin-top: auto; padding: 16px 12px 0; border-top: 1px solid var(--line); }
 .sidebar-note strong,.sidebar-note span { display: block; }
